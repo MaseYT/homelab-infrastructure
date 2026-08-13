@@ -10,7 +10,7 @@
 
 - CPU: Intel i7-7700
 - GPU: N/A
-- RAM: 16gb DDR4 at 3200mhz
+- RAM: 16gb DDR4 at 3600mhz
 - Storage: 2tb HDD & 256gb Boot Drive
 - Case: Rosewill 4U Server Chassis Rackmount Case 9 Bays 3 Fans 
 - Network: Generic Router (hope to change)
