@@ -15,7 +15,7 @@
 - Case: Rosewill 4U Server Chassis Rackmount Case 9 Bays 3 Fans 
 - Network: Generic Router (hope to change)
 
-## LXC Containers (work in progress)
+## LXC Containers
 
 - | ID | Service | Purpose | 
 - | 100 | Jellyfin | Streaming Shows/Movies |
