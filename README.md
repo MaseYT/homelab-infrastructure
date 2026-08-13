@@ -1,2 +1,2 @@
-# homelab-infrastructure
+# Homelab Infrasturcture 
 Welcome to my personal homelab, throughout this repository I will explain what I have done to my home server and keep it as up to date as I can. This started from an old laptop and eventually moved to some more advanced hardware. Originally I started this to run a Minecraft server for my friends (as most of us youngins do) and spiraled into something that I have grown to love. This repository has been created on 8/13/2026 but I have started this long long ago. I hope for this to be on my resume as I apply to Cybersecurity jobs in the future.
