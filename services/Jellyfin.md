@@ -1,0 +1,3 @@
+# Jellyfin Setup
+
+## Installation
